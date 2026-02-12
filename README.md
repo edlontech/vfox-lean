@@ -54,7 +54,7 @@ The plugin sets the following environment variables:
 
 | Variable | Value |
 |----------|-------|
-| `PATH` | `<install-dir>/bin` is prepended |
+| `PATH` | `<install-dir>/shims` is prepended |
 | `LEAN_HOME` | Set to the installation directory |
 
 ## Platform support
